@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá, querido <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, sou  Erlan Marinho </h1>
-<h3 align = "center"> Focado em aprender  a resolver problemar por meio da programação </h3>
+<h3 align = "center"> Focado em aprender  a resolver problemas por meio da tecnologia </h1>
 
 - 🔭 Atualmente estou  estudando Análise e Desenvolvimento de Sistemas - UniCesumar
 
