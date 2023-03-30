@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [erlanmarinho]
 
-- ⚡Estou estudando **JavaScript, HTML, CSS, SQL**
+- ⚡Estou estudando **JavaScript, ReactJS, HTML, CSS, SQL**
 
 - 📫 Como entrar em contato comigo **erlan.marinho1125@gmail.com**
 
